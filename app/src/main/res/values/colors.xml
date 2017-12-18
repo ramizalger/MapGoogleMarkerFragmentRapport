@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="jauneHodeoz">#F1C84A</color>
+    <color name="orangeHodeoz">#F39B2F</color>
+    <color name="rougeHodeoz">#BF4804</color>
+    <color name="grisOrangeHodeoz">#D6D6D6</color>
+    <color name="grisJauneHodeoz">#AEAEAE</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

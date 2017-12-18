@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MapGoogle</string>
+    <string name="title_activity_main">Map</string>
+    <string name="ground_overlay_demo_label">Ground Overlays</string>
+    <string name="ground_overlay_demo_description">Demonstrates how to add a GroundOverlay to a map.</string>
+    <string name="transparency">Transparency</string>
+    <string name="switch_image">Switch Image</string>
+    <string name="clickable">Clickable</string>
+    <string name="no_demos">No demos</string>
+    <string name="location_permission_denied">location_permission_denied</string>
+    <string name="permission_required_toast">permission_required_toast</string>
+    <string name="permission_rationale_location">permission_rationale_location</string>
+
+
+</resources>
